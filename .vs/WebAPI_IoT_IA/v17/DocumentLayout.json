@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\codigos\\WebAPI_IoT_IA_ok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD83CB40-DF9E-4DDA-B79B-A32B5DAD983E}|WebAPI_IoT_IA\\WebAPI_IoT_IA.csproj|c:\\temp\\codigos\\webapi_iot_ia_ok\\webapi_iot_ia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD83CB40-DF9E-4DDA-B79B-A32B5DAD983E}|WebAPI_IoT_IA\\WebAPI_IoT_IA.csproj|solutionrelative:webapi_iot_ia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WebAPI_IoT_IA_ok\\WebAPI_IoT_IA\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_IoT_IA\\Program.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WebAPI_IoT_IA_ok\\WebAPI_IoT_IA\\Program.cs",
+              "RelativeToolTip": "WebAPI_IoT_IA\\Program.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAewLIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T01:15:13.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

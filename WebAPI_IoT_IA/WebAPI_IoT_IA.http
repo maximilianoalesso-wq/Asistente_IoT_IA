@@ -1,0 +1,6 @@
+@WebAPI_IoT_IA_HostAddress = http://localhost:5087
+
+GET {{WebAPI_IoT_IA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

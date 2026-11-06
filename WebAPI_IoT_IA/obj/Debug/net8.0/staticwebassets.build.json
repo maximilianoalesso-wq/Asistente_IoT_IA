@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9HuqIbPtPTKCvarhd2G1ZmKho0EcD5aB2taKdXOM+m0=",
+  "Source": "WebAPI_IoT_IA",
+  "BasePath": "_content/WebAPI_IoT_IA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
